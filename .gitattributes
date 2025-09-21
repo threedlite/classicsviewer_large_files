@@ -1,0 +1,2 @@
+homer_iliad_chamberlain_audio.zip filter=lfs diff=lfs merge=lfs -text
+perseus_texts_full.db.zip filter=lfs diff=lfs merge=lfs -text
